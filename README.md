@@ -12,6 +12,7 @@ Este projeto é uma aplicação desenvolvida em TypeScript para gerenciar os fun
 
 ## Funcionalidades
 
+
 - **Cadastro de Funcionários**: Permite incluir novos funcionários no sistema.
 - **Atualização de Salários**: Possibilita alterar o salário de um funcionário específico.
 - **Consulta de Funcionários**: Busca informações detalhadas de um funcionário a partir de sua matrícula.
